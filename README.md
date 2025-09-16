@@ -25,5 +25,3 @@ We tuned the following hyperparameters:
 - Validation Accuracy: 92.5%  
 - Macro F1-score: 0.92  
 - AUC: 0.995  
-
-## 📂 Repository Structure
